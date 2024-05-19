@@ -3,9 +3,7 @@
 ## Interactive Projects - Arduino
 Documentation can be seen here: https://github.com/efeng2/Portfolio/blob/main/Arduino/Documentation.md
 
-For *Vigilance* a preview can be seen here: https://github.com/efeng2/Portfolio/blob/main/Arduino/PROJECT_1.jpg
-
-For *Hidden Box in the Forest* a preview can be seen here: https://github.com/efeng2/Portfolio/blob/main/Arduino/PROJECT_2.jpg
+Photos and Videos of the Projects can be seen here: https://github.com/efeng2/Portfolio/tree/main/Arduino
 
 ## Status and Locations of Adoptable Shelter Dogs - Observable Interactive Visualization
 A project visualizing the location and status of shelter dogs aimed to persuade potential dog buyers to adopt dogs instead using observable, vegalite, and d3. It can be accessed here: https://observablehq.com/d/f8fd2ad05f7aea78
